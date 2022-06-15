@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Sub1-t
+# Lite Paper
 
 {% include list.liquid %}
