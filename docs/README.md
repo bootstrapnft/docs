@@ -1,37 +1,31 @@
----
-sort: 1
----
-
 # Home
 
-欢迎来到BootstrapNFT文档。BootstrapNFT是一个NFT流动性拍卖平台，通过为NFT项目建立流动性市场并进行「荷兰式拍卖」（拍卖价格将由高到低依次递减），从而对NFT资产进行健康稳定的价格发现。
+Welcome to the BootstrapNFT documentation. BootstrapNFT is an NFT liquidity auction platform. By establishing a liquidity market for NFT projects and conducting a "Dutch auction" (the auction price will decrease in order from high to low), it enables healthy and stable price discovery of NFT assets.
 
-任何拥有NFT的发行方，都可以建立保险库并铸造一个可替代的 ERC20 代币（vToken）。在NFT进行碎片化后，发行方可以自行建立流动性启动池并设置自定义流动池的权重，既可以是线性，也可以是指数曲线，从而调节代币的价值，防止因早期投机和炒作导致新NFT价格飙升。
+Any issuer with an NFT can build a vault and mint a fungible ERC20 token (vToken). After the NFT is fragmented, the issuer can establish a liquidity startup pool and set the weight of the custom liquidity pool, which can be either linear or exponential, so as to adjust the value of the token and prevent early speculation and speculation. New NFT prices skyrocketed.
 
-BootstrapNFT项目试图解决NFT市场定价不透明、机器人抢跑等乱象，让人们有足够的机会以公平的价格参与交易。
+The BootstrapNFT project attempts to solve the chaos in the NFT market such as opaque pricing and robot preemption, so that people have enough opportunities to participate in transactions at fair prices.
 
-$BSN是BootstrapNFT的治理令牌，可以为不同的BootstrapNFT令牌对提供流动性。
+$BSN is BootstrapNFT’s governance token and can provide liquidity to different BootstrapNFT token pairs.
 
 Links
-App：
+App:
 Github:
 Website:
 Lite Paper:
 Band Kit:
 
-F&Q
+## F&Q
 
-什么是NFT碎片化？
-碎片NFT是指被分解成碎片的NFT，允许它们被单独出售。这些碎片的每个买家将拥有NFT整体价值的一小部分。这使长尾用户能够部分购买无法负担的NFT，并允许NFT持有者立即兑现NFT的部分价值，而不一定要完全出售。
+What is NFT Fragmentation?
+Fragmented NFTs are NFTs that are broken down into fragments, allowing them to be sold individually. Each buyer of these shards will own a fraction of the overall value of the NFT. This enables long-tail users to partially buy unaffordable NFTs, and allows NFT holders to immediately cash out part of the NFT’s value without necessarily having to sell them outright.
 
-为什么需要碎片化后再进行拍卖？
+Why does it need to be fragmented and then auctioned?
 
-提高了NFT交易流动性，发挥出资产流动性的价值；
-允许更多用户以更低的价格交易 NFT，普通用户轻松参与蓝筹项目；
-降低了NFT投资的风险;
-碎片化 NFT 可以提供价格发现机制，以确定特定 NFT 的价值。（由于碎片化的ERC-20代币在公开市场上出售，它们的价格有助于为代币化资产的价格提供合理的估值。）
+Improve the liquidity of NFT transactions and exert the value of asset liquidity;
+Allow more users to trade NFTs at lower prices, and ordinary users can easily participate in blue-chip projects;
+Reduced risk of NFT investments;
+Fragmented NFTs can provide a price discovery mechanism to determine the value of a particular NFT. (As fragmented ERC-20 tokens are sold on the open market, their prices help provide a reasonable valuation for the price of tokenized assets.)
 
-如何确保BootstrapNFT启动池的流动性？
-BootstrapNFT主要的应用市场有哪些？
-
-
+How to ensure liquidity of BootstrapNFT launch pool?
+What are the main application markets of BootstrapNFT?
