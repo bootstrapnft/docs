@@ -5,7 +5,7 @@
     - [Background](lite-paper/background.md)
     - [Advantage](lite-paper/advantage.md)
     - [How It Works](lite-paper/how-it-works.md)
-    - [Use Cases](lite-paper/use-case.md)
+    - [Use Cases](lite-paper/use-cases.md)
   - [Tutorials]()
     - [Vault Creation](tutorials/vault-creation.md)
     - [Minting](tutorials/minting.md)
