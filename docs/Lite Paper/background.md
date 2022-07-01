@@ -1,15 +1,16 @@
 # Background
 
-## NFT流动性不足
+## Insufficient liquidity of NFTs
 
-目前的NFT市场陷入了困局，一方面，新的NFT项目不断出现，名人和大品牌推出NFT；一方面，每个NFT项目都会有上万种NFT作品，并且每笔 NFT 交易都依赖于匹配单个买家和单个卖家，使得NFT的流动性极低。
+The current NFT market is in a dilemma. On the one hand, new NFT projects continue to emerge, for example, celebrities and big brands launch NFTs; on the other hand, each NFT project would have tens of thousands of NFT works, and every NFT transaction depends on matching a single buyer to a single seller, which causes the extremely low liquidity of NFTs.
+ 
+At the same time, due to the uniqueness of NFT assets, there are also great differences between the same series of NFTs, and transaction decisions are subjectively affected. Popular NFT models are widely sought after, while ordinary models are unpopular, further resulting in poor liquidity of most NFTs.
 
-同时由于NFT资产的独特性，同一系列NFT之间也存在很大差异，是否交易受到主观影响。NFT热门款广受追捧，而普通款无人问津，进一步导致大多数NFT流动性差。
+ 
+## NFT overtop initial price
 
-
-## NFT过高初始价格
-
-在NFT领域，以炒作为基础的定价无疑是一个现实问题。许多项目并不具备足够的价值来支撑高价，仅仅依靠“有影响力的人物”推动价格上涨。这就导致了人们由于FOMO心理而害怕错过以致纷纷投资此类项目，而当热潮褪去，只会血本无归。
-
-对于还未进入市场的用户来说购买一个动辄几个或几十个ETH的NFT门槛太高，大多数人都无力购买价格高昂的NFT，更无法建立NFT投资组合，让NFT成为了巨鲸的专属。
-真正的社区创建者会以一个合理的水平进行初始定价。
+In the NFT space, the speculation-based pricing is undoubtedly a real issue. Many projects don't have enough value to justify high prices. Instead they rely solely on "influencers" to drive prices up. This leads people to invest in such projects due to the fear of missing out caused by the FOMO mentality. When the boom fades, they will only lose everything.
+ 
+For users who have not yet entered the market, the threshold for purchasing an NFT with a few or dozens of ETHs is too high. Most people cannot afford to buy high-priced NFTs, let alone build NFT investment portfolios. This makes NFTs exclusive for the whale.
+ 
+A real community creator will do initial pricing at a reasonable level.
