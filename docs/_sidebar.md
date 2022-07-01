@@ -1,4 +1,4 @@
-  -[Home](README.md)
+  - [Home](README.md)
     - [F&Q](F%26Q.md)
   - [Lite Paper](Lite%20Paper/README.md)
     - [Introduction](Lite%20Paper/introduction.md)
@@ -10,4 +10,6 @@
     - [Vault Creation](Tutorials/vault-creation.md)
     - [Minting](Tutorials/minting.md)
     - [Create Pool](Tutorials/create-pool.md)
+    - [Swap](Tutorials/swap.md)
+    - [Redeeming](Tutorials/redeeming.md)
   
