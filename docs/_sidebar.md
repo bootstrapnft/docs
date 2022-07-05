@@ -1,15 +1,21 @@
-  - [Home](README.md)
-    - [F&Q](F%26Q.md)
-  - [Lite Paper](lite-paper/introduction.md)
+- Home
+    - [Home](home/README.md)
+    - [F&Q](home/F%26Q.md)
+- Lite Paper
     - [Introduction](lite-paper/introduction.md)
     - [Background](lite-paper/background.md)
     - [Advantage](lite-paper/advantage.md)
     - [How It Works](lite-paper/how-it-works.md)
     - [Use Cases](lite-paper/use-cases.md)
-  - [Tutorials](tutorial/vault-creation.md)
+- Tutorials
     - [Vault Creation](tutorial/vault-creation.md)
     - [Minting](tutorial/minting.md)
     - [Create Pool](tutorial/create-pool.md)
     - [Swap](tutorial/swap.md)
     - [Redeeming](tutorial/redeeming.md)
+- Contracts
+    - [Overview](contracts/overview.md)
+    - [Contract Address](contracts/contract_address.md)
+- [Tokenomics](tokenomics/README.md)
+- [Brand](brand-kit/README.md)
   

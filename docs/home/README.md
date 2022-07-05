@@ -20,5 +20,3 @@ Website:
 Lite Paper:
 
 Band Kit:
-
-
