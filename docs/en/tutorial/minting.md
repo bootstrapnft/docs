@@ -9,13 +9,5 @@ Tips: Vaults are usually floor vaults, which means that minting higher-value NFT
  
 ![](../asset/12.png)
 
-![](../asset/13.png)
-
-
-
 
 Click the "mint" button to generate a vToken. Each NFT will return a vToken, minus the minting fee (5%).
-
- 
-
-Minters are currently limited to scan the first 1,000 NFTs available for the minting in the wallet.
