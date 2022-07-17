@@ -9,7 +9,7 @@ Specific NFTs are targeted-redeemed from the vault by paying a targeted redempti
 Select the nft or amount (integer) you want to redeem in the vault and approve the contract. Once the approved transaction is confirmed, the required amount of NFT can be redeemed from the vault.
 
  
-![](../asset/30.png)
+![](../asset/130.png)
 
 
 
