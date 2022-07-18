@@ -37,4 +37,4 @@ returns (uint256[] memory)
 调用此方法需要给合约地址授予该Erc20的approval
 
 ## vToken (Fund Tokens)
-对于NFTX上的每一个基金，都会部署一个vToken代理克隆合约，作为通过该基金进行造币/赎回的手段。每个vToken都是一个标准的ERC20。
+对于BootstrapNFT上的每一个基金，都会部署一个vToken代理克隆合约，作为通过该基金进行造币/赎回的手段。每个vToken都是一个标准的ERC20。
