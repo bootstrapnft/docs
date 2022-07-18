@@ -58,5 +58,5 @@ Calling this method needs to grant the approval of the Erc20 to the contract add
 
 
 ## vToken (Fund Tokens)
-For each fund on NFTX, a vToken proxy clone contract is deployed as a means of minting/redemption through that fund. Each vToken is a standard ERC20.
+For each fund on BootstrapNFT, a vToken proxy clone contract is deployed as a means of minting/redemption through that fund. Each vToken is a standard ERC20.
 
